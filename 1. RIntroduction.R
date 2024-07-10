@@ -24,14 +24,14 @@ install.packages("installr")
 
 # Variable
 
-name1 = "Amit"
+name1 = "Prasanna"
 name1
 
 
 
 
-name2 = "Neha"
-name = "Snehal"
+name2 = "Ram"
+name = "Jack"
 name
 
 age = 25
@@ -68,22 +68,22 @@ var1 = var2 = var3 = "orange"
 
 # Legal variable Names
 
-myvar="Snehal"
-my_var = "Meenal"
-myVar = "Ganesh"
-MYVAR = "Manish"
+myvar="Prasanna"
+my_var = "William"
+myVar = "Julie"
+MYVAR = "James"
 myvar2 = "Lathika"
 this.year = 2022
 
 
 # Illegal Variable Names
 
-2myvar = "s"
-my-var = "s"
-my var = "s"
-_my_var = "s"
-my_v@var = "s"
-TRUE = "s"
+2myvar = "P"
+my-var = "P"
+my var = "P"
+_my_var = "P"
+my_v@var = "P"
+TRUE = "P"
 
 # Data Types in R
 # Numeric/Float - decimal whole +ve -ve
